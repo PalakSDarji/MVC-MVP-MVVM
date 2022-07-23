@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.palak.mvp">
+
+    <application>
+        <activity android:name=".MVPActivity"
+            android:exported="true" />
+    </application>
+</manifest>

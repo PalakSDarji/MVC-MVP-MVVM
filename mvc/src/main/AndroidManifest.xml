@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.palak.mvc">
+
+    <application>
+        <activity
+            android:name=".MVCActivity"
+            android:exported="true" />
+    </application>
+
+</manifest>
